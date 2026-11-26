@@ -6,6 +6,8 @@ import { fileURLToPath } from "node:url";
 // counted drop by drop beside my father. A different scene from v1
 // (no kitchen, no grandmother, no rice, no woodsmoke) — same proven
 // shape: one vivid sensory moment, then a bridge to the present.
+// The bridge lands on a sound (his voice in the rain), not a place,
+// so the memory stays with the listener after the sentence ends.
 const ENTRY =
   "When the afternoon rain drummed on our tin roof, I pressed my ear to the cool wall and counted the drops with my father until the storm softened into a lullaby, and now every sudden downpour still finds me listening for his voice in the rain.";
 
