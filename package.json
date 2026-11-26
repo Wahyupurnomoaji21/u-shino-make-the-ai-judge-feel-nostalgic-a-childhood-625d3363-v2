@@ -1,0 +1,1 @@
+{"description":"One sentence that makes the AI judge feel nostalgic for a childhood memory: afternoon rain on a tin roof, counted drop by drop beside my father.","devDependencies":{"tsx":"^4.0.0"},"name":"u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363-v2","private":true,"scripts":{"start":"npx tsx main.ts"},"type":"module","version":"2.0.0"}
